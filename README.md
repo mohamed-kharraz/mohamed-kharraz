@@ -16,6 +16,7 @@ Orama is a market intelligence and investment analysis platform designed to expl
 - financial data pipelines
 - distributed systems
 - engineering craftsmanship
+🔗 [Orama Platform Organization](https://github.com/orama-platform)
 
 ## Current Focus
 - Kafka internals
